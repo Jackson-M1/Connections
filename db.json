@@ -1,0 +1,126 @@
+{
+    "exclusions": {
+        "mom": [
+            "joe sykora",
+            "tammylynne jonas",
+            "larry orwin",
+            "milan gavran",
+            "brad short",
+            "christopher luter",
+            "lisa mcclure",
+            "steve porter",
+            "-mike baker",
+            "jim wangler",
+            "jerry schuebel",
+            "hans oriol",
+            "ralf doerstling",
+            "cary rheder",
+            "kristin bohn",
+            "subham rath",
+            "dwipayan banerjee",
+            "jason caldwell",
+            "marci hazard",
+            "tammy richards",
+            "aaron davies-morris",
+            "micah edmonds",
+            "john d.",
+            "done "
+        ]
+    },
+    "center for internet security": {
+        "mom": {
+            "charles grindle": 3,
+            "mark hanson": 2
+        }
+    },
+    "vanta": {
+        "mom": {
+            "joe hildebrand": 3
+        }
+    },
+    "crowdstrike": {
+        "mom": {
+            "james mckinley": 3
+        }
+    },
+    "ultraviolet cyber": {
+        "mom": {
+            "kenneth jones": 1,
+            "jeffrey m. bauer": 1,
+            "kim thibodeaux": 1
+        }
+    },
+    "creative financial staffing": {
+        "mom": {
+            "ryan mckee": 3,
+            "frank eaves": 1,
+            "scott compton": 3,
+            "amy starzynski coddens": 1
+        }
+    },
+    "constellation software inc.": {
+        "mom": {
+            "gregory dower": 3,
+            "michelle anastasi": 3
+        }
+    },
+    "binary defense systems": {
+        "mom": {
+            "charles grindle": 3,
+            "jeffrey m. bauer": 1
+        }
+    },
+    "the judge group": {
+        "mom": {
+            "john rabito": 3,
+            "charles hoop": 1,
+            "mike bendoff": 3,
+            "james mckinley": 3
+        }
+    },
+    "motion recruitment": {
+        "mom": {
+            "jeff mironcow": 3,
+            "paul throldahl": 2,
+            "jennifer nicastro": 3
+        }
+    },
+    "pegasystems": {
+        "mom": {
+            "gregory dower": 3,
+            "tony benevenga": 3
+        }
+    },
+    "core & main": {
+        "mom": {
+            "sally orzech": 3,
+            "bart scoble": 2
+        }
+    },
+    "kforce inc.": {
+        "mom": {
+            "leann johnson": 3
+        }
+    },
+    "the home depot": {
+        "mom": {
+            "kim thibodeaux": 1
+        }
+    },
+    "tekstream solutions": {
+        "mom": {
+            "mark hanson": 2,
+            "ryan horrisberger": 3,
+            "gene catallo": 3,
+            "jeffrey m. bauer": 1,
+            "gary sharp": 3,
+            "josh linkenhoker": 3
+        }
+    },
+    "c3 integrated solutions": {
+        "mom": {
+            "igor steinberg": 2,
+            "amy starzynski coddens": 1
+        }
+    }
+}
